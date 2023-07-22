@@ -1,0 +1,19 @@
+name: daps-final
+
+dependencies:
+  - python=3.9
+  - pip
+  - pip:
+    - plotly
+    - scipy
+    - numpy
+    - scikit-learn
+    - pymongo
+    - matplotlib
+    - meteostat
+    - covid19dh
+    - seaborn
+    - pandas
+    - alpha_vantage
+    - statsmodels
+    - prophet
